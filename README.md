@@ -6,4 +6,5 @@ This is the source code for the [Artist Residency]() website. The site is built 
 
 ```
   $ git clone https://github.com/anirudh-eka/artist-residency-source.git
+  $ npm install
 ```
