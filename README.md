@@ -13,7 +13,7 @@ Make a folder to house the source code locally, and initialize hexo:
 Set origin remote repository to this github repo and pull:
 
 ```
-	$ git remote set-url origin https://github.com/anirudh-eka/artist-residency-source.git
+	$ git remote set-url origin https://github.com/twresidency/twresidency.github.io-source.git
 	$ git pull
 ```
 
@@ -30,10 +30,10 @@ Run the server, to check it out locally!
 
 ## Deploy
 
-This hexo site is configured to deploy the static site to Github, at [this github repository](https://github.com/anirudhstuff/anirudhstuff.github.io/tree/master). You must have push privelages to this repo to deploy. To deploy, do the following:
+This hexo site is configured to deploy the static site to Github, at [this github repository](https://github.com/twresidency/twresidency.github.io). You must have push privelages to this repo to deploy. To deploy, do the following:
 
 ```
   $ hexo deploy
 ```
 
-Checkout the live site [here](http://anirudhstuff.github.io/)!
+Checkout the live site [here](https://twresidency.github.io)!
