@@ -4,22 +4,9 @@ This is the source code for the [Artist Residency]() website. The site is built 
 
 ## How to get started
 
-Make a folder to house the source code locally, and initialize hexo:
 ```
-  $ mkdir artist-residency-source
-  $ cd artist-residency-source
-  $ hexo init
-```
-Set origin remote repository to this github repo and pull:
-
-```
-	$ git remote set-url origin https://github.com/twresidency/twresidency.github.io-source.git
-	$ git pull
-```
-
-Install dependancies:
-
-```
+  $ git clone --recursive https://github.com/twresidency/twresidency.github.io-source.git
+  $ cd twresidency.github.io-source
   $ npm install
 ```
 
